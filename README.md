@@ -13,3 +13,34 @@ Four reasons:
 - That has a side effect of causing several Unity module to no longer work and immediately cause errors on startup. For example: like Unity Collab being deprecated and replaced with PlasticSCM.
 - You would need to remove problematic modules one by one and restart Unity several times to get it to work.
 - This is unacceptably inaccessible for people who never use Unity before and just want to get your vtuber model running
+
+
+## Wait, I still have some errors in the Console Window on startup!
+<img src="https://github.com/FFaUniHan/Unity_VSeeFaceSDK_Template/blob/main/Problem1.png" width=100% height=100%>
+
+Yes, Unity usually have some errors on the first startup. But if those errors do not come back once you press the Clear button in the Console Window, you're okay. 
+
+<img src="https://github.com/FFaUniHan/Unity_VSeeFaceSDK_Template/blob/main/Problem2.png" width=100% height=100%>
+
+As the proof, the errors won't appear again if you close and reopen this project. Fun fact: you only need to worry about Red error messages in most cases. Yellow warnings usually don't stop you from using the project.
+
+<img src="https://github.com/FFaUniHan/Unity_VSeeFaceSDK_Template/blob/main/Problem3.png" width=100% height=100%>
+
+
+# Support me on Ko-Fi or Patreon
+There we go! I hope you enjoy this project and keep on creating!
+
+<img src="https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/LogoPatreonKofi.png" width=50% height=50%>
+
+If this project helps you, consider supporting me on these platforms. I have a youtube channel exploring the limits of VRoid Studio and Unity. Feel free to check it out!
+- YouTube: https://www.youtube.com/@ReForgeMode
+- Patreon: https://www.patreon.com/ReForgeMode
+- Ko-Fi: https://ko-fi.com/reforgemode
+
+
+# Got any questions?
+
+<img src="https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/LogoDiscord.png" width=30% height=30%>
+
+Encounter any weird bugs or problems? Let's talk about it on our Discord server forums:
+- Discord Server https://discord.com/invite/aDMGjpFeBX
