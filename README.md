@@ -7,7 +7,7 @@ This project has cleaned up every problematic modules and includes all of the re
 
 All you gotta do is to open this with Unity Hub. If you didn't have Unity version 2019.4.31f1, it should immediately prompt you to install it. After that, you can open this project and import your model as usual.
 
-## What hassle? 
+# What hassle? 
 Four reasons:
 - That project is severely outdated, using 2019.4.31f1 (from September 30, 2021) and UniVRM version 0.89 (from November 9, 2021)
 - That has a side effect of causing several Unity module to no longer work and immediately cause errors on startup. For example: like Unity Collab being deprecated and replaced with PlasticSCM.
@@ -15,7 +15,7 @@ Four reasons:
 - This is unacceptably inaccessible for people who never use Unity before and just want to get your vtuber model running
 
 
-## Wait, I still have some errors in the Console Window on startup!
+# Wait, I still have some errors in the Console Window on startup!
 <img src="https://github.com/FFaUniHan/Unity_VSeeFaceSDK_Template/blob/main/Problem1.png" width=100% height=100%>
 
 Yes, Unity usually have some errors on the first startup. But if those errors do not come back once you press the Clear button in the Console Window, you're okay. 
